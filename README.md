@@ -15,7 +15,7 @@ This approach helps automate repetitive CAD tasks and quickly generate multiple 
 
 Watch the project demo here:
 
-https://youtu.be/Za0IL_LLaqM
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
 
 ---
 
